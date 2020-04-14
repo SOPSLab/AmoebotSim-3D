@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/QConParticle.qml</file>
+        <file>qml/QParticle.qml</file>
+        <file>qml/QSimulator.qml</file>
+        <file>qml/QSystem.qml</file>
+        <file>qml/QExpParticle.qml</file>
+        <file>qml/QMarker.qml</file>
+        <file>qml/QCameraController.qml</file>
+        <file>qml/QCompass.qml</file>
+        <file>qml/QEdge.qml</file>
+    </qresource>
+</RCC>
